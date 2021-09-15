@@ -1,2 +1,2 @@
-# practica1_fdp
+# practica1_fd
 Práctica 1 
